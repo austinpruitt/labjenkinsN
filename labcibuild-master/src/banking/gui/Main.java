@@ -1,5 +1,5 @@
 package banking.gui;
-
+//fixing the issues
 // STYLE
 import javax.swing.JFrame;
 
